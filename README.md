@@ -45,7 +45,7 @@ It is a type of digital logic design that combines the advantages of current mod
 
 - FMCML is an effective design approach that balances speed, power efficiency, and noise resilience, making it suitable for modern electronic systems.
 
-![image](https://github.com/user-attachments/assets/960c2535-1557-413f-9adf-9b1bf59f20d5)
+![image](https://github.com/Jyothi181/Pictures2/blob/main/Picture1.png)
 
 ***Figure 1: FMCML D-Latch***
 
@@ -58,32 +58,32 @@ Low voltage is often used in frequency dividers for several reasons. Lower volta
 
 # Circuits
 
-![image](https://github.com/user-attachments/assets/5e6b7d26-a506-47e5-a3d4-653a5a0e0c91)
+![image](https://github.com/Jyothi181/Pictures2/blob/main/Picture2.png)
 
 ***Figure 2: Proposed Frequency divider architecture***
 
-![image](https://github.com/user-attachments/assets/83e07b8a-873d-4809-906a-a598f88dc16b)
+![image](https://github.com/Jyothi181/Pictures2/blob/main/Picture3.png)
 
 ***Figure 3: Topology of a) n-type b) p-type D flip flop in Folded MCML logic style***
 
-![image](https://github.com/user-attachments/assets/fb3eab5e-9f58-4990-a263-ccaee3837a27)
-
 # Schematics
+
+![image](https://github.com/Jyothi181/Pictures2/blob/main/Picture4.png)
 
 ***Figure 4: Schematic of n-type flip flop***
 
-![image](https://github.com/user-attachments/assets/a855727e-dd79-46d3-b77e-a770c62c6b85)
+![image](https://github.com/Jyothi181/Pictures2/blob/main/Picture5.png)
 
 ***Figure 5: Schematic of p-type flip flop***
 
 
 # Results
 
-![image](https://github.com/user-attachments/assets/1a03735b-e7ab-4f0b-be46-a38306eef87e)
+![image](https://github.com/Jyothi181/Pictures2/blob/main/Picture6.png)
 
 ***Figure 6: Schematic of proposed frequency divider in FMCML***
 
-![image](https://github.com/user-attachments/assets/947aa59f-f3c6-4241-945c-9ef572d26485)
+![image](https://github.com/Jyothi181/Pictures2/blob/main/Picture7.png)
 
 ***Figure 7: Output of proposed frequency divider in FMCML***
 
