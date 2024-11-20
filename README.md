@@ -45,7 +45,7 @@ It is a type of digital logic design that combines the advantages of current mod
 
 - FMCML is an effective design approach that balances speed, power efficiency, and noise resilience, making it suitable for modern electronic systems.
 
-![image](https://github.com/Jyothi181/Pictures2/blob/main/Picture1.png)
+ ![image](https://github.com/Jyothi181/A-Very-Low-Voltage-Frequency-Divider/blob/main/FMCML_Images/Picture1.png?raw=true)
 
 ***Figure 1: FMCML D-Latch***
 
@@ -58,32 +58,32 @@ Low voltage is often used in frequency dividers for several reasons. Lower volta
 
 # Circuits
 
-![image](https://github.com/Jyothi181/Pictures2/blob/main/Picture2.png)
+![image](https://github.com/Jyothi181/A-Very-Low-Voltage-Frequency-Divider/blob/main/FMCML_Images/Picture2.png?raw=true)
 
 ***Figure 2: Proposed Frequency divider architecture***
 
-![image](https://github.com/Jyothi181/Pictures2/blob/main/Picture3.png)
+![image](https://github.com/Jyothi181/A-Very-Low-Voltage-Frequency-Divider/blob/main/FMCML_Images/Picture3.png?raw=true)
 
 ***Figure 3: Topology of a) n-type b) p-type D flip flop in Folded MCML logic style***
 
 # Schematics
 
-![image](https://github.com/Jyothi181/Pictures2/blob/main/Picture4.png)
+![image](https://github.com/Jyothi181/A-Very-Low-Voltage-Frequency-Divider/blob/main/FMCML_Images/Picture4.png?raw=true)
 
 ***Figure 4: Schematic of n-type flip flop***
 
-![image](https://github.com/Jyothi181/Pictures2/blob/main/Picture5.png)
+![image](https://github.com/Jyothi181/A-Very-Low-Voltage-Frequency-Divider/blob/main/FMCML_Images/Picture5.png?raw=true)
 
 ***Figure 5: Schematic of p-type flip flop***
 
 
 # Results
 
-![image](https://github.com/Jyothi181/Pictures2/blob/main/Picture6.png)
+![image](https://github.com/Jyothi181/A-Very-Low-Voltage-Frequency-Divider/blob/main/FMCML_Images/Picture6.png?raw=true)
 
 ***Figure 6: Schematic of proposed frequency divider in FMCML***
 
-![image](https://github.com/Jyothi181/Pictures2/blob/main/Picture7.png)
+![image](https://github.com/Jyothi181/A-Very-Low-Voltage-Frequency-Divider/blob/main/FMCML_Images/Picture7.png?raw=true)
 
 ***Figure 7: Output of proposed frequency divider in FMCML***
 
