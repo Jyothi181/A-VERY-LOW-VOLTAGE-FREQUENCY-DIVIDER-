@@ -5,17 +5,18 @@ A very low voltage frequency divider in folded MOS current mode logic with compl
 - **Tools :** Tanner EDA
 
 # Table of Contents
-- Introduction
-- Current mode logic (CML)
-- MCML
-- Folded MOS Current Mode Logic (FMCML) 
-- Key Features
-- Complementary flip-flops
-- Low Voltage
-- Circuits
-- Schematics
-- Results
-- Future Scope
+- [Introduction](#Introduction)
+- [Current mode logic (CML)](#Current-mode-logic-(CML))
+- [MCML](#MCML)
+- [Folded MOS Current Mode Logic (FMCML)](#Folded-MOS-Current-Mode-Logic-(FMCML))
+     - [Key Features](#Key-Features)
+- [Complementary flip-flops](#Complementary-flip-flops)
+- [Low Voltage](#Low-Voltage)
+- [Circuits](#Circuits)
+- [Schematics](#Schematics)
+- [Results](#Results)
+- [Future Scope](#Future-Scope)
+
 
 # Introduction
 
