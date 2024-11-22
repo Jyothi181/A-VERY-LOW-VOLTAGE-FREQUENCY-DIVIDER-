@@ -6,9 +6,9 @@ A very low voltage frequency divider in folded MOS current mode logic with compl
 
 # Table of Contents
 - [Introduction](#Introduction)
-- [Current mode logic (CML)](#Current-mode-logic-(CML))
+- [Current mode logic](#Current-mode-logic)
 - [MCML](#MCML)
-- [Folded MOS Current Mode Logic (FMCML)](#Folded-MOS-Current-Mode-Logic-(FMCML))
+- [Folded MOS Current Mode Logic](#Folded-MOS-Current-Mode-Logic)
      - [Key Features](#Key-Features)
 - [Complementary flip-flops](#Complementary-flip-flops)
 - [Low Voltage](#Low-Voltage)
